@@ -7,5 +7,4 @@ def display_rainbow(colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indig
   puts B: blue
   puts I: indigo
   puts V: violet
-
 end
